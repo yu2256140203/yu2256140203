@@ -1,16 +1,14 @@
-### Hi there 👋
+# 你好，陌生人💌
 
-<!--
-**yu2256140203/yu2256140203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**身为一个计算机系的学生，也许默默的尝试计算机世界的各种有趣的事物，**
 
-Here are some ideas to get you started:
+**将会成为我们最大，最向往计算机这一专业的原因之一**。😜 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+在东秦的每一天，充实且美好。
+
+希望未来不负自己的初心❤
+
+继续加油下去吧，自己💕
+
+继续加油下去吧，陌生人🤞
+(For me,For u)
