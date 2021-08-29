@@ -1,4 +1,4 @@
-<img src='https://img1.cf/?/image/da-yun-he-zai-wei-ni-si-yi-da-li-qiangzhi-1152x768_36%20%281%29%281%29.jpg' />
+<img src='https://img1.cf/?/image/da-yun-he-zai-wei-ni-si-yi-da-li-qiangzhi-1152x768_36%20%281%29%281%29.jpg' width='100px' />
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:yu2256140203"></a>
