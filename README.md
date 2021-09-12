@@ -2,7 +2,7 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:yu2256140203"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
- <embed src="//music.163.com/style/swf/widget.swf?sid=1465959494&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+
 </p>
 
 
