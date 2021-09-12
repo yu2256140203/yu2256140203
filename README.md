@@ -2,8 +2,10 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:yu2256140203"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <video><source src="https://cdn.jsdelivr.net/gh/yu2256140203/Photos@main/20210912/064b55aa90c879ced3d6a063fafd1d61/064b55aa90c879ced3d6a063fafd1d61.mp4" type="video/mp4"></video>
 </p>
-<video><source src="https://cdn.jsdelivr.net/gh/yu2256140203/Photos@main/20210912/064b55aa90c879ced3d6a063fafd1d61/064b55aa90c879ced3d6a063fafd1d61.mp4" type="video/mp4"></video>
+
+
 # 你好，陌生人💌
 
 **身为一个计算机系的学生，也许默默的尝试计算机世界的各种有趣的事物，**
